@@ -4,4 +4,6 @@ A repository to learn and practice ideas in reinforcement learning, starting wit
 
 ## Contents
 
-* *Multi-Armed Bandit:* An implementation of the multi-armed bandit problem to illustrate the trade-off between the greedy and exploratory strategies.
+* *Multi-Armed Bandit:* An implementation of the multi-armed bandit problem to illustrate the trade-off between the greedy and exploratory strategies. A summary of the theory and the code can be found [here](https://james-alvey-42.github.io/multi-armed-bandit).
+
+![multi-armed-bandit](img/multi-armed-bandit.png)
